@@ -20,13 +20,12 @@
     + **Bag of words**
     + **Tokenization**
 
-# Comparativo dos Modelos
-+ **Avaliação**
-  + **Acurácia obtidas pelos os modelos**
-    + **LSTM: 0.859512**
-    + **LinearSVC: 0.637242**
-    + **MultinomialNB: 0.622199**
-    + **LogisticRegression: .589248**
+# Avaliação dos Modelos
+ + **Acurácia obtidas pelos os modelos**
+   + **LSTM: 0.859512**
+   + **LinearSVC: 0.637242**
+   + **MultinomialNB: 0.622199**
+   + **LogisticRegression: .589248**
 # Comparativo entre os modelos.
 + **Teste Friedman para  LinearSVC, MultinomialNB e  LogisticRegression. P-value = 0.0000000021**.
 
